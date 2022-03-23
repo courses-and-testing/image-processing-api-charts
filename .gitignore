@@ -1,0 +1,15 @@
+# General files for the project
+pkg/*
+*.pyc
+bin/*
+.project
+/.bin
+/_test/secrets/*.json
+
+# Vscode files
+.vscode
+
+# Chart dependencies
+**/charts/*.tgz
+
+.history
